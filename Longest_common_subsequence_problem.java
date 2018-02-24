@@ -1,7 +1,7 @@
 import java.util.*;
 import java.lang.*;
 import java.io.*;
-class NewClass
+class Longest_common_subsequence_problem
  {
 	  //function that finds the length of the common subsequence
     static void lcs(String a,String b)
